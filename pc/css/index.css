@@ -1,0 +1,517 @@
+.mod-bner {
+    min-width: 1230px;
+    overflow: hidden;
+    position: relative;
+    margin-top: 7px;
+}
+
+.mod-bner img {
+    margin-left: -960px;
+    left: 50%;
+    position: relative;
+}
+
+.mod-bner a {
+    display: block;
+}
+
+.layout-main {
+    width: 100%;
+    background: #efefef;
+    margin-top: -3px;
+    padding-bottom: 20px;
+}
+
+.layout-box {
+    width: 1230px;
+    border-radius: 14px;
+    background: #f7f7f7;
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
+
+.mod-post {
+    padding-top: 25px;
+    zoom: 1;
+}
+
+.mod-post:after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+.mod-post h2 {
+    float: left;
+    background: url('../images/h_12.jpg') no-repeat 0 0;
+    background-size: 31px 25px;
+    height: 25px;
+    padding-left: 38px;
+    font-size: 16px;
+    line-height: 25px;
+    margin-left: 15px;
+    display: inline;
+    font-weight: bold;
+}
+
+.mod-post div {
+    width: 1080px;
+    overflow-x: hidden;
+    line-height: 25px;
+    margin-left: 30px;
+    float: left;
+}
+
+.mod-reg {
+    width: 1210px;
+    margin-left: 10px;
+    background: #FFF url('../images/h_19.jpg') no-repeat 40px 16px;
+    height: 72px;
+    margin-top: 15px;
+}
+
+.mod-reg .tel {
+    margin-left: 65px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 24px;
+    color: #666;
+    margin-top: 15px;
+    border: 0 none;
+    font-weight: lighter;
+    width: 500px;
+    outline: 0 none;
+}
+
+.mod-reg button {
+    width: 508px;
+    height: 48px;
+    background: url('../images/h_16.jpg') no-repeat 0 0;
+    border: 0 none;
+    text-indent: -9999px;
+    overflow-x: hidden;
+    cursor: pointer;
+    margin-left: 100px;
+}
+
+.mod-rule-list {
+    width: 1210px;
+    margin-left: 10px;
+    background: #FFF;
+    margin-top: 20px;
+}
+
+.mod-rule-list ul {
+    zoom: 1;
+}
+
+.mod-rule-list ul:after {
+    clear: both;
+    display: block;
+    content: '';
+}
+
+.mod-rule-list li {
+    width: 245px;
+    float: left;
+    margin-left: 45px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 25px;
+}
+
+.mod-rule-list li .p1 {
+    height: 90px;
+    font-weight: bold;
+}
+
+.mod-rule-list li .p2 {
+    font-size: 24px;
+    color: #0081df;
+}
+
+.mod-rule-list li p {
+    margin-top: 10px;
+}
+
+.cell-tit {
+    margin-top: 25px;
+    zoom: 1;
+    margin-bottom: 25px;
+}
+
+.cell-tit:after {
+    display: block;
+    clear: both;
+    content: '';
+}
+
+.cell-tit h2 {
+    font-size: 28px;
+    font-weight: bold;
+    float: left;
+    margin-left: 40px;
+    padding-left: 57px;
+    background: url('../images/h_34.jpg') no-repeat 0 0;
+}
+
+.cell-tit p {
+    float: left;
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+.cell-tit .more {
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    display: inline;
+}
+
+.mod-steps .content {
+    width: 1210px;
+    margin-left: 10px;
+    background: #FFF;
+    text-align: center;
+    padding: 35px 0;
+}
+
+.mod-group-pro {}
+
+.mod-group-pro .content {
+    width: 1210px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.mod-group-pro .content .li1 {
+    float: left;
+    background: #FFF;
+    padding: 20px 0;
+    padding-right: 20px;
+}
+
+.mod-group-pro .content .li2 {
+    float: right;
+    background: #FFF;
+    padding: 20px 0;
+    padding-right: 20px;
+}
+
+.mod-1pei {}
+
+.mod-1pei li {
+    width: 287px;
+    height: 300px;
+    background: #FFF;
+    float: left;
+    margin: 0 10px;
+    padding: 20px 0;
+    margin-bottom: 20px;
+    height: 350px;
+}
+
+.mod-1pei .grup {
+    margin: 0 15px;
+}
+
+.mod-1pei .pic {
+    float: left;
+}
+
+.mod-1pei img {
+    width: 86px;
+    height: 86px;
+}
+
+.mod-1pei .info {
+    float: left;
+    margin-left: 10px;
+}
+
+.mod-1pei h3 {
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 6px;
+}
+
+.mod-1pei .p1 {
+    float: left;
+    font-size: 12px;
+    height: 16px;
+    line-height: 16px;
+    border: 1px solid #fb4000;
+    border-radius: 3px;
+    color: #fb4000;
+    padding: 0 4px;
+    margin-top: 10px;
+}
+
+.mod-1pei .p2 {
+    float: left;
+    font-size: 12px;
+    height: 16px;
+    line-height: 16px;
+    border: 1px solid #0081df;
+    border-radius: 3px;
+    color: #0081df;
+    padding: 0 4px;
+    margin-left: 10px;
+    display: inline;
+    margin-top: 10px;
+}
+
+.mod-1pei .p3,
+.mod-1pei .tips1 {
+    margin: 0 20px;
+    font-size: 16px;
+    color: #9fa0a0;
+    border-top: 1px solid #dcdddd;
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.mod-1pei .p3 strong {
+    color: #fb4000;
+    font-size: 32px;
+    margin-left: 20px;
+}
+
+.mod-1pei .tips1 {
+    padding-bottom: 0;
+}
+
+.mod-1pei .tips1 strong {
+    color: #fb4000;
+    font-size: 16px;
+    margin-left: 20px;
+    font-weight: bolder;
+}
+
+.mod-1pei .tips2 {
+    margin-left: 100px;
+    color: #9fa0a0;
+}
+
+.mod-1pei .btn a {
+    display: block;
+    width: 247px;
+    background: #fb4000;
+    border-radius: 3px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFF;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.mod-1pei .more {
+    text-align: right;
+    padding-right: 20px;
+    margin-top: 10px;
+}
+
+.mod-1pei .more a {
+    color: #333;
+}
+
+.mod-6pei {}
+
+.mod-6pei .content {
+    background: #FFF;
+    padding-top: 20px;
+}
+
+.mod-6pei li {
+    width: 580px;
+    height: 160px;
+    background: url('../images/h_45.jpg') no-repeat 0 0;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+.mod-6pei .grup {
+    float: left;
+    margin-left: 30px;
+    display: inline;
+    padding-top: 30px;
+}
+
+.mod-6pei .pic {
+    float: left;
+}
+
+.mod-6pei img {
+    width: 86px;
+    height: 86px;
+}
+
+.mod-6pei .info {
+    float: left;
+    margin-left: 30px;
+    width: 230px;
+}
+
+.mod-6pei h3 {
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 6px;
+}
+
+.mod-6pei .p1 {
+    float: left;
+    font-size: 12px;
+    height: 16px;
+    line-height: 16px;
+    border: 1px solid #fb4000;
+    border-radius: 3px;
+    color: #fb4000;
+    padding: 0 4px;
+    margin-top: 0px;
+}
+
+.mod-6pei .p2 {
+    float: left;
+    font-size: 12px;
+    height: 16px;
+    line-height: 16px;
+    border: 1px solid #0081df;
+    border-radius: 3px;
+    color: #0081df;
+    padding: 0 4px;
+    margin-left: 10px;
+    display: inline;
+    margin-top: 0px;
+}
+
+.mod-6pei .btn a {
+    display: block;
+    width: 180px;
+    background: #f7ab00;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFF;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.mod-6pei .p3 strong {
+    color: #fb4000;
+    font-size: 32px;
+}
+
+.mod-6pei .tips1 {
+    margin-top: 10px;
+}
+
+.mod-6pei .tips1 strong {
+    font-size: 20px;
+}
+
+.mod-6pei .box {
+    float: left;
+    width: 180px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.mod-bn-box {
+    margin-bottom: 20px;
+}
+
+.mod-bn-box img {
+    width: 100%;
+}
+
+.mod-news {
+    width: 590px;
+    float: left;
+    margin-left: 10px;
+    display: inline;
+}
+
+.mod-news .content {
+    background: #FFF;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 250px;
+}
+
+.mod-news .content a {
+    float: left;
+    margin-top: 10px;
+}
+
+.mod-news .content span {
+    float: right;
+    margin-top: 10px;
+}
+
+.mod-news .content ul {
+    padding-top: 20px;
+}
+
+.mod-news .content li {
+    height: 38px;
+    line-height: 38px;
+    border-bottom: 1px dashed #AAA;
+}
+
+.mod-cp-news {
+    width: 590px;
+    float: right;
+    margin-right: 10px;
+    display: inline;
+}
+
+.mod-cp-news .content {
+    background: #FFF;
+    padding-left: 30px;
+    padding-right: 20px;
+    height: 215px;
+    padding-top: 35px;
+}
+
+.mod-cp-news img {
+    width: 240px;
+    height: 150px;
+}
+
+.mod-cp-news .news {
+    margin-top: 20px;
+}
+
+.mod-cp-news .pic {
+    float: left;
+}
+
+.mod-cp-news .info {
+    float: right;
+    width: 280px;
+}
+
+.mod-cp-news .info .more {
+    margin-top: 30px;
+}
+
+.mod-links {}
+
+.mod-links .content {
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+
+.mod-links .content a {
+    float: left;
+    width: 70px;
+    margin-right: 20px;
+}

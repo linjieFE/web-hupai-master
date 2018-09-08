@@ -1,0 +1,343 @@
+html {
+    background: #FFF;
+}
+
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+fieldset,
+img {
+    border: 0
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var {
+    font-style: normal;
+    font-weight: normal
+}
+
+ol,
+ul {
+    list-style: none
+}
+
+caption,
+th {
+    text-align: left
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 100%;
+    font-weight: normal
+}
+
+q:before,
+q:after {
+    content: ''
+}
+
+abbr,
+acronym {
+    border: 0;
+    font-variant: normal
+}
+
+sup {
+    vertical-align: text-top
+}
+
+sub {
+    vertical-align: text-bottom
+}
+
+input,
+textarea,
+select {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit
+}
+
+input,
+textarea,
+select {
+    *font-size: 100%
+}
+
+legend {
+    color: #000
+}
+
+
+* {
+    font: 100% Verdana, Futura, Helvetica, sans-serif;
+}
+
+html {
+    background: #FFF
+}
+
+body {
+    color: #595757;
+    margin: auto;
+    font-size: 0.75em;
+}
+
+nav {
+    width: 19%;
+    heigh: 60%;
+    color: #fff;
+    background-color: #e2001a;
+    top: 0;
+    left: 0;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+    color: #666;
+}
+
+.clear {
+    zoom: 1;
+}
+
+.clear:after {
+    display: block;
+    clear: both;
+    height: 0;
+    overflow-x: hidden;
+    content: '';
+}
+
+.mod-top-bar {
+    height: 51px;
+    width: 100%;
+    background: url('../images/h_02.jpg') repeat-x 0 0;
+}
+
+.mod-top-bar .txt {
+    font-size: 16px;
+    line-height: 50px;
+    float: left;
+}
+
+.mod-top-bar .txt strong {
+    font-weight: bold;
+}
+
+.mod-top-bar .links {
+    float: right;
+    padding-top: 15px;
+    font-size: 16px;
+}
+
+.mod-top-bar .links a {
+    margin: 0 5px;
+    color: #666;
+}
+
+.mod-top-bar .content {
+    width: 1230px;
+    margin: 0 auto;
+}
+
+.mod-header {
+    margin-top: 22px;
+}
+
+.mod-header h1 img {
+    width: 504px;
+}
+
+.mod-header .content {
+    width: 1230px;
+    margin: 0 auto;
+    zoom: 1;
+}
+
+.mod-header .content:after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+.mod-header h1 {
+    float: left;
+    margin-top: 5px;
+}
+
+.mod-header ul {
+    float: right;
+}
+
+.mod-header ul li {
+    float: left;
+    font-size: 24px;
+    height: 94px;
+    margin-left: 10px;
+    display: inline;
+}
+
+.mod-header ul a {
+    display: block;
+    line-height: 94px;
+    padding: 0 10px;
+    border-bottom: 4px solid #FFF;
+}
+
+.mod-header ul a:hover {
+    border-bottom: 4px solid #0081df;
+}
+
+.mod-footer {}
+
+.mod-footer .ma {
+    width: 100%;
+    height: 100px;
+    position: relative;
+    top: 0px;
+    z-index: 111;
+    background: #000;
+    opacity: 0.7;
+}
+
+.mod-footer .ma .box {
+    width: 1230px;
+    margin: 0 auto;
+}
+
+.mod-footer .ma .p1 {
+    float: left;
+    margin-top: 10px;
+    margin-left: 60px;
+    display: inline;
+}
+
+.mod-footer .ma .p2 {
+    position: absolute;
+    left: 50%;
+    margin-left: -142px;
+    top: -50px;
+    z-index: 1;
+    opacity: 1;
+}
+
+.mod-footer .ma .p3 {
+    float: right;
+    margin-top: 10px;
+    margin-right: 60px;
+    display: inline;
+}
+
+.mod-footer .ma .p4 {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 50%;
+    margin-left: -85px;
+    top: 10px;
+    z-index: 1;
+}
+
+.mod-footer .content {
+    background: #303030;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.mod-footer .content .box {
+    width: 1230px;
+    margin: 0 auto;
+}
+
+.mod-footer .content dl {
+    float: left;
+    width: 145px;
+    color: #FFF;
+}
+
+.mod-footer .content a {
+    color: #FFF;
+}
+
+.mod-footer .content dt {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.mod-footer .content dd {
+    margin-bottom: 10px;
+}
+
+.mod-footer .content .last {
+    width: 200px;
+    margin-left: 30px;
+}
+
+.mod-footer .content .last .d2 {
+    line-height: 1.8em;
+}
+
+.mod-footer .content .last .d1 {
+    font-size: 24px;
+}
+
+.mod-footer .content .dl1 {
+    margin-left: 90px;
+    display: inline;
+}
+
+.mod-footer .content .cop {
+    width: 1230px;
+    border-top: 1px solid #FFF;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 15px;
+    color: #FFF;
+    margin-top: 30px;
+}
